@@ -76,7 +76,7 @@ function Reviews() {
           Previous
         </button>
         <button className="random-btn" onClick={handlerandom}>
-          Surprise me
+          surprise me
         </button>
         <button className="next-btn" onClick={handlenext}>
           Next
